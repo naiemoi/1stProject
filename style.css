@@ -301,4 +301,19 @@ input, textarea {
     font-weight: bold;
     padding-top: 150px;
     
+}.foot{
+    flex-direction:column;
+    
+    text-align: center;
+}
+.alt{
+    display: flex;
+     gap: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    opacity: 100%;
+    color: #8987A1;
+    
+
 }

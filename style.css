@@ -298,12 +298,12 @@ input, textarea {
     font-weight: bold;
     padding-top: 150px;
     
-}.foot{
+}.fit{
     flex-direction:column;
     
     text-align: center;
 }
-.alt{
+.alter{
     display: flex;
      gap: 20px;
     text-align: center;

@@ -229,7 +229,7 @@ body {
     transform: scale(1.05);    
 }
 
-.image-section {
+.imageS {
   display: flex;
   justify-content: center;
   align-items: center;

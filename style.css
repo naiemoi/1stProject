@@ -66,9 +66,6 @@ nav  a{
 
 
 
-
-
-
 .bnr{
     display: flex;
     justify-content: space-between;
@@ -217,7 +214,7 @@ body {
   font-size: 1rem;
 }
 
-.btn {
+.buttn {
   display: inline-block;
   padding: 12px 24px;
   background-color: #5f4dee;
@@ -227,7 +224,7 @@ body {
   font-weight: bold;
   margin-bottom: 40px;
 }
-.btn:hover {
+.buttn {
     background-color: #6A64FF; 
     transform: scale(1.05);    
 }
@@ -244,7 +241,7 @@ body {
   border-radius: 20px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 }
-.contact-section {
+.section {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -255,7 +252,7 @@ body {
   margin-top: 30px;
 }
 
-.contact-left {
+.left {
 /* width: 528px;
 height: 232px; */
 color: #000000;
@@ -270,7 +267,7 @@ margin-left:200px;
   margin: 0;
 } */
 
-.contact-right {
+.right {
   flex: 1;
   min-width: 250px;
   max-width: 350px;
